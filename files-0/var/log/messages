@@ -1,0 +1,18 @@
+<5>Linux version 4.1.0+ (lawrence@lawrence) (gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) ) #0 Thu Oct 20 18:33:51 CEST 2016
+<6>NET: Registered protocol family 16
+<6>NET: Registered protocol family 2
+<6>default registered
+<6>default registered
+<6>MPTCP: Stable release v0.89.0-rc<6>TCP established hash table entries: 512 (order: 0, 4096 bytes)
+<6>TCP bind hash table entries: 512 (order: 0, 4096 bytes)
+<6>TCP: Hash tables configured (established 512 bind 512)
+<6>UDP hash table entries: 128 (order: 0, 4096 bytes)
+<6>UDP-Lite hash table entries: 128 (order: 0, 4096 bytes)
+<6>NET: Registered protocol family 10
+<6>nsc: IPv6 over IPv4 tunneling driver
+<6>fullmesh registered
+<6>ndiffports registered
+<6>binder registered
+<6>roundrobin registered
+<3>net/mptcp/mptcp_ctrl.c: mptcp_alloc_mpcb: created mpcb with token 0x811aef13
+<3>net/mptcp/mptcp_ctrl.c: mptcp_add_sock: token 0x811aef13 pi 1, src_addr:10.1.0.1:37655 dst_addr:10.2.0.1:5001, cnt_subflows now 1
