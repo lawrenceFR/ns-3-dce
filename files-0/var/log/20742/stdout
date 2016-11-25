@@ -1,0 +1,5031 @@
+launch
+Client1: send 1000001 / 1000001
+Server1: received 1000001 / 1000001
+launch
+launch
+launch
+Client4: recv status -1 and errno 22
+Client4: send status -1 and errno 107
+launch
+Server5: accepting...
+Client5: second connection attempt.
+Server5: end 
+Client5: end 
+
+launch
+Client6: end 
+
+launch
+Client7: end 
+
+launch
+enter client8
+client8: 2 reads
+Client8: end 
+
+launch
+launch
+Client10: 1st connect -> 0 errno:0
+Client10: connect -> -1 errno:11
+Client10: recv -> -1 errno:11
+Client10: send -1 / 1000001
+Client10: end 
+
+Server10: recv -> 131072 errno:11
+
+Server10: recv -> 0 errno:11
+
+launch
+Server11: end 
+Client11: end 
+
+launch
+launch
+Server13: BUF_LEN:1024
+Server13: end 
+Client13: end 
+
+launch
+Server14: BUF_LEN:1024
+Client14: select -> 0, errno: 0 
+Server14: end 
+Client14: end 
+
+launch
+Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Server15: select -> 1 
+ Server15: selecting ... 
+ Client15: connect -> 0 
+ Client15: out of do-while
+ Closing fd 1022 
+ Closing fd 1020 
+ Closing fd 1018 
+ Closing fd 1016 
+ Closing fd 1014 
+ Closing fd 1012 
+ Closing fd 1010 
+ Closing fd 1008 
+ Closing fd 1006 
+ Closing fd 1004 
+ Closing fd 1002 
+ Closing fd 1000 
+ Closing fd 998 
+ Closing fd 996 
+ Closing fd 994 
+ Closing fd 992 
+ Closing fd 990 
+ Closing fd 988 
+ Closing fd 986 
+ Closing fd 984 
+ Closing fd 982 
+ Closing fd 980 
+ Closing fd 978 
+ Closing fd 976 
+ Closing fd 974 
+ Closing fd 972 
+ Closing fd 970 
+ Closing fd 968 
+ Closing fd 966 
+ Closing fd 964 
+ Closing fd 962 
+ Closing fd 960 
+ Closing fd 958 
+ Closing fd 956 
+ Closing fd 954 
+ Closing fd 952 
+ Closing fd 950 
+ Closing fd 948 
+ Closing fd 946 
+ Closing fd 944 
+ Closing fd 942 
+ Closing fd 940 
+ Closing fd 938 
+ Closing fd 936 
+ Closing fd 934 
+ Closing fd 932 
+ Closing fd 930 
+ Closing fd 928 
+ Closing fd 926 
+ Closing fd 924 
+ Closing fd 922 
+ Closing fd 920 
+ Closing fd 918 
+ Closing fd 916 
+ Closing fd 914 
+ Closing fd 912 
+ Closing fd 910 
+ Closing fd 908 
+ Closing fd 906 
+ Closing fd 904 
+ Closing fd 902 
+ Closing fd 900 
+ Closing fd 898 
+ Closing fd 896 
+ Closing fd 894 
+ Closing fd 892 
+ Closing fd 890 
+ Closing fd 888 
+ Closing fd 886 
+ Closing fd 884 
+ Closing fd 882 
+ Closing fd 880 
+ Closing fd 878 
+ Closing fd 876 
+ Closing fd 874 
+ Closing fd 872 
+ Closing fd 870 
+ Closing fd 868 
+ Closing fd 866 
+ Closing fd 864 
+ Closing fd 862 
+ Closing fd 860 
+ Closing fd 858 
+ Closing fd 856 
+ Closing fd 854 
+ Closing fd 852 
+ Closing fd 850 
+ Closing fd 848 
+ Closing fd 846 
+ Closing fd 844 
+ Closing fd 842 
+ Closing fd 840 
+ Closing fd 838 
+ Closing fd 836 
+ Closing fd 834 
+ Closing fd 832 
+ Closing fd 830 
+ Closing fd 828 
+ Closing fd 826 
+ Closing fd 824 
+ Closing fd 822 
+ Closing fd 820 
+ Closing fd 818 
+ Closing fd 816 
+ Closing fd 814 
+ Closing fd 812 
+ Closing fd 810 
+ Closing fd 808 
+ Closing fd 806 
+ Closing fd 804 
+ Closing fd 802 
+ Closing fd 800 
+ Closing fd 798 
+ Closing fd 796 
+ Closing fd 794 
+ Closing fd 792 
+ Closing fd 790 
+ Closing fd 788 
+ Closing fd 786 
+ Closing fd 784 
+ Closing fd 782 
+ Closing fd 780 
+ Closing fd 778 
+ Closing fd 776 
+ Closing fd 774 
+ Closing fd 772 
+ Closing fd 770 
+ Closing fd 768 
+ Closing fd 766 
+ Closing fd 764 
+ Closing fd 762 
+ Closing fd 760 
+ Closing fd 758 
+ Closing fd 756 
+ Closing fd 754 
+ Closing fd 752 
+ Closing fd 750 
+ Closing fd 748 
+ Closing fd 746 
+ Closing fd 744 
+ Closing fd 742 
+ Closing fd 740 
+ Closing fd 738 
+ Closing fd 736 
+ Closing fd 734 
+ Closing fd 732 
+ Closing fd 730 
+ Closing fd 728 
+ Closing fd 726 
+ Closing fd 724 
+ Closing fd 722 
+ Closing fd 720 
+ Closing fd 718 
+ Closing fd 716 
+ Closing fd 714 
+ Closing fd 712 
+ Closing fd 710 
+ Closing fd 708 
+ Closing fd 706 
+ Closing fd 704 
+ Closing fd 702 
+ Closing fd 700 
+ Closing fd 698 
+ Closing fd 696 
+ Closing fd 694 
+ Closing fd 692 
+ Closing fd 690 
+ Closing fd 688 
+ Closing fd 686 
+ Closing fd 684 
+ Closing fd 682 
+ Closing fd 680 
+ Closing fd 678 
+ Closing fd 676 
+ Closing fd 674 
+ Closing fd 672 
+ Closing fd 670 
+ Closing fd 668 
+ Closing fd 666 
+ Closing fd 664 
+ Closing fd 662 
+ Closing fd 660 
+ Closing fd 658 
+ Closing fd 656 
+ Closing fd 654 
+ Closing fd 652 
+ Closing fd 650 
+ Closing fd 648 
+ Closing fd 646 
+ Closing fd 644 
+ Closing fd 642 
+ Closing fd 640 
+ Closing fd 638 
+ Closing fd 636 
+ Closing fd 634 
+ Closing fd 632 
+ Closing fd 630 
+ Closing fd 628 
+ Closing fd 626 
+ Closing fd 624 
+ Closing fd 622 
+ Closing fd 620 
+ Closing fd 618 
+ Closing fd 616 
+ Closing fd 614 
+ Closing fd 612 
+ Closing fd 610 
+ Closing fd 608 
+ Closing fd 606 
+ Closing fd 604 
+ Closing fd 602 
+ Closing fd 600 
+ Closing fd 598 
+ Closing fd 596 
+ Closing fd 594 
+ Closing fd 592 
+ Closing fd 590 
+ Closing fd 588 
+ Closing fd 586 
+ Closing fd 584 
+ Closing fd 582 
+ Closing fd 580 
+ Closing fd 578 
+ Closing fd 576 
+ Closing fd 574 
+ Closing fd 572 
+ Closing fd 570 
+ Closing fd 568 
+ Closing fd 566 
+ Closing fd 564 
+ Closing fd 562 
+ Closing fd 560 
+ Closing fd 558 
+ Closing fd 556 
+ Closing fd 554 
+ Closing fd 552 
+ Closing fd 550 
+ Closing fd 548 
+ Closing fd 546 
+ Closing fd 544 
+ Closing fd 542 
+ Closing fd 540 
+ Closing fd 538 
+ Closing fd 536 
+ Closing fd 534 
+ Closing fd 532 
+ Closing fd 530 
+ Closing fd 528 
+ Closing fd 526 
+ Closing fd 524 
+ Closing fd 522 
+ Closing fd 520 
+ Closing fd 518 
+ Closing fd 516 
+ Closing fd 514 
+ Closing fd 512 
+ Closing fd 510 
+ Closing fd 508 
+ Closing fd 506 
+ Closing fd 504 
+ Closing fd 502 
+ Closing fd 500 
+ Closing fd 498 
+ Closing fd 496 
+ Closing fd 494 
+ Closing fd 492 
+ Closing fd 490 
+ Closing fd 488 
+ Closing fd 486 
+ Closing fd 484 
+ Closing fd 482 
+ Closing fd 480 
+ Closing fd 478 
+ Closing fd 476 
+ Closing fd 474 
+ Closing fd 472 
+ Closing fd 470 
+ Closing fd 468 
+ Closing fd 466 
+ Closing fd 464 
+ Closing fd 462 
+ Closing fd 460 
+ Closing fd 458 
+ Closing fd 456 
+ Closing fd 454 
+ Closing fd 452 
+ Closing fd 450 
+ Closing fd 448 
+ Closing fd 446 
+ Closing fd 444 
+ Closing fd 442 
+ Closing fd 440 
+ Closing fd 438 
+ Closing fd 436 
+ Closing fd 434 
+ Closing fd 432 
+ Closing fd 430 
+ Closing fd 428 
+ Closing fd 426 
+ Closing fd 424 
+ Closing fd 422 
+ Closing fd 420 
+ Closing fd 418 
+ Closing fd 416 
+ Closing fd 414 
+ Closing fd 412 
+ Closing fd 410 
+ Closing fd 408 
+ Closing fd 406 
+ Closing fd 404 
+ Closing fd 402 
+ Closing fd 400 
+ Closing fd 398 
+ Closing fd 396 
+ Closing fd 394 
+ Closing fd 392 
+ Closing fd 390 
+ Closing fd 388 
+ Closing fd 386 
+ Closing fd 384 
+ Closing fd 382 
+ Closing fd 380 
+ Closing fd 378 
+ Closing fd 376 
+ Closing fd 374 
+ Closing fd 372 
+ Closing fd 370 
+ Closing fd 368 
+ Closing fd 366 
+ Closing fd 364 
+ Closing fd 362 
+ Closing fd 360 
+ Closing fd 358 
+ Closing fd 356 
+ Closing fd 354 
+ Closing fd 352 
+ Closing fd 350 
+ Closing fd 348 
+ Closing fd 346 
+ Closing fd 344 
+ Closing fd 342 
+ Closing fd 340 
+ Closing fd 338 
+ Closing fd 336 
+ Closing fd 334 
+ Closing fd 332 
+ Closing fd 330 
+ Closing fd 328 
+ Closing fd 326 
+ Closing fd 324 
+ Closing fd 322 
+ Closing fd 320 
+ Closing fd 318 
+ Closing fd 316 
+ Closing fd 314 
+ Closing fd 312 
+ Closing fd 310 
+ Closing fd 308 
+ Closing fd 306 
+ Closing fd 304 
+ Closing fd 302 
+ Closing fd 300 
+ Closing fd 298 
+ Closing fd 296 
+ Closing fd 294 
+ Closing fd 292 
+ Closing fd 290 
+ Closing fd 288 
+ Closing fd 286 
+ Closing fd 284 
+ Closing fd 282 
+ Closing fd 280 
+ Closing fd 278 
+ Closing fd 276 
+ Closing fd 274 
+ Closing fd 272 
+ Closing fd 270 
+ Closing fd 268 
+ Closing fd 266 
+ Closing fd 264 
+ Closing fd 262 
+ Closing fd 260 
+ Closing fd 258 
+ Closing fd 256 
+ Closing fd 254 
+ Closing fd 252 
+ Closing fd 250 
+ Closing fd 248 
+ Closing fd 246 
+ Closing fd 244 
+ Closing fd 242 
+ Closing fd 240 
+ Closing fd 238 
+ Closing fd 236 
+ Closing fd 234 
+ Closing fd 232 
+ Closing fd 230 
+ Closing fd 228 
+ Closing fd 226 
+ Closing fd 224 
+ Closing fd 222 
+ Closing fd 220 
+ Closing fd 218 
+ Closing fd 216 
+ Closing fd 214 
+ Closing fd 212 
+ Closing fd 210 
+ Closing fd 208 
+ Closing fd 206 
+ Closing fd 204 
+ Closing fd 202 
+ Closing fd 200 
+ Closing fd 198 
+ Closing fd 196 
+ Closing fd 194 
+ Closing fd 192 
+ Closing fd 190 
+ Closing fd 188 
+ Closing fd 186 
+ Closing fd 184 
+ Closing fd 182 
+ Closing fd 180 
+ Closing fd 178 
+ Closing fd 176 
+ Closing fd 174 
+ Closing fd 172 
+ Closing fd 170 
+ Closing fd 168 
+ Closing fd 166 
+ Closing fd 164 
+ Closing fd 162 
+ Closing fd 160 
+ Closing fd 158 
+ Closing fd 156 
+ Closing fd 154 
+ Closing fd 152 
+ Closing fd 150 
+ Closing fd 148 
+ Closing fd 146 
+ Closing fd 144 
+ Closing fd 142 
+ Closing fd 140 
+ Closing fd 138 
+ Closing fd 136 
+ Closing fd 134 
+ Closing fd 132 
+ Closing fd 130 
+ Closing fd 128 
+ Closing fd 126 
+ Closing fd 124 
+ Closing fd 122 
+ Closing fd 120 
+ Closing fd 118 
+ Closing fd 116 
+ Closing fd 114 
+ Closing fd 112 
+ Closing fd 110 
+ Closing fd 108 
+ Closing fd 106 
+ Closing fd 104 
+ Closing fd 102 
+ Closing fd 100 
+ Closing fd 98 
+ Closing fd 96 
+ Closing fd 94 
+ Closing fd 92 
+ Closing fd 90 
+ Closing fd 88 
+ Closing fd 86 
+ Closing fd 84 
+ Closing fd 82 
+ Closing fd 80 
+ Closing fd 78 
+ Closing fd 76 
+ Closing fd 74 
+ Closing fd 72 
+ Closing fd 70 
+ Closing fd 68 
+ Closing fd 66 
+ Closing fd 64 
+ Closing fd 62 
+ Closing fd 60 
+ Closing fd 58 
+ Closing fd 56 
+ Closing fd 54 
+ Closing fd 52 
+ Closing fd 50 
+ Closing fd 48 
+ Closing fd 46 
+ Closing fd 44 
+ Closing fd 42 
+ Closing fd 40 
+ Closing fd 38 
+ Closing fd 36 
+ Closing fd 34 
+ Closing fd 32 
+ Closing fd 30 
+ Closing fd 28 
+ Closing fd 26 
+ Closing fd 24 
+ Closing fd 22 
+ Closing fd 20 
+ Closing fd 18 
+ Closing fd 16 
+ Closing fd 14 
+ Closing fd 12 
+ Closing fd 10 
+ Closing fd 8 
+ Client15: end 
+
+ Server15: select -> 1 
+ Closing fd 1023 
+ Closing fd 1021 
+ Closing fd 1019 
+ Closing fd 1017 
+ Closing fd 1015 
+ Closing fd 1013 
+ Closing fd 1011 
+ Closing fd 1009 
+ Closing fd 1007 
+ Closing fd 1005 
+ Closing fd 1003 
+ Closing fd 1001 
+ Closing fd 999 
+ Closing fd 997 
+ Closing fd 995 
+ Closing fd 993 
+ Closing fd 991 
+ Closing fd 989 
+ Closing fd 987 
+ Closing fd 985 
+ Closing fd 983 
+ Closing fd 981 
+ Closing fd 979 
+ Closing fd 977 
+ Closing fd 975 
+ Closing fd 973 
+ Closing fd 971 
+ Closing fd 969 
+ Closing fd 967 
+ Closing fd 965 
+ Closing fd 963 
+ Closing fd 961 
+ Closing fd 959 
+ Closing fd 957 
+ Closing fd 955 
+ Closing fd 953 
+ Closing fd 951 
+ Closing fd 949 
+ Closing fd 947 
+ Closing fd 945 
+ Closing fd 943 
+ Closing fd 941 
+ Closing fd 939 
+ Closing fd 937 
+ Closing fd 935 
+ Closing fd 933 
+ Closing fd 931 
+ Closing fd 929 
+ Closing fd 927 
+ Closing fd 925 
+ Closing fd 923 
+ Closing fd 921 
+ Closing fd 919 
+ Closing fd 917 
+ Closing fd 915 
+ Closing fd 913 
+ Closing fd 911 
+ Closing fd 909 
+ Closing fd 907 
+ Closing fd 905 
+ Closing fd 903 
+ Closing fd 901 
+ Closing fd 899 
+ Closing fd 897 
+ Closing fd 895 
+ Closing fd 893 
+ Closing fd 891 
+ Closing fd 889 
+ Closing fd 887 
+ Closing fd 885 
+ Closing fd 883 
+ Closing fd 881 
+ Closing fd 879 
+ Closing fd 877 
+ Closing fd 875 
+ Closing fd 873 
+ Closing fd 871 
+ Closing fd 869 
+ Closing fd 867 
+ Closing fd 865 
+ Closing fd 863 
+ Closing fd 861 
+ Closing fd 859 
+ Closing fd 857 
+ Closing fd 855 
+ Closing fd 853 
+ Closing fd 851 
+ Closing fd 849 
+ Closing fd 847 
+ Closing fd 845 
+ Closing fd 843 
+ Closing fd 841 
+ Closing fd 839 
+ Closing fd 837 
+ Closing fd 835 
+ Closing fd 833 
+ Closing fd 831 
+ Closing fd 829 
+ Closing fd 827 
+ Closing fd 825 
+ Closing fd 823 
+ Closing fd 821 
+ Closing fd 819 
+ Closing fd 817 
+ Closing fd 815 
+ Closing fd 813 
+ Closing fd 811 
+ Closing fd 809 
+ Closing fd 807 
+ Closing fd 805 
+ Closing fd 803 
+ Closing fd 801 
+ Closing fd 799 
+ Closing fd 797 
+ Closing fd 795 
+ Closing fd 793 
+ Closing fd 791 
+ Closing fd 789 
+ Closing fd 787 
+ Closing fd 785 
+ Closing fd 783 
+ Closing fd 781 
+ Closing fd 779 
+ Closing fd 777 
+ Closing fd 775 
+ Closing fd 773 
+ Closing fd 771 
+ Closing fd 769 
+ Closing fd 767 
+ Closing fd 765 
+ Closing fd 763 
+ Closing fd 761 
+ Closing fd 759 
+ Closing fd 757 
+ Closing fd 755 
+ Closing fd 753 
+ Closing fd 751 
+ Closing fd 749 
+ Closing fd 747 
+ Closing fd 745 
+ Closing fd 743 
+ Closing fd 741 
+ Closing fd 739 
+ Closing fd 737 
+ Closing fd 735 
+ Closing fd 733 
+ Closing fd 731 
+ Closing fd 729 
+ Closing fd 727 
+ Closing fd 725 
+ Closing fd 723 
+ Closing fd 721 
+ Closing fd 719 
+ Closing fd 717 
+ Closing fd 715 
+ Closing fd 713 
+ Closing fd 711 
+ Closing fd 709 
+ Closing fd 707 
+ Closing fd 705 
+ Closing fd 703 
+ Closing fd 701 
+ Closing fd 699 
+ Closing fd 697 
+ Closing fd 695 
+ Closing fd 693 
+ Closing fd 691 
+ Closing fd 689 
+ Closing fd 687 
+ Closing fd 685 
+ Closing fd 683 
+ Closing fd 681 
+ Closing fd 679 
+ Closing fd 677 
+ Closing fd 675 
+ Closing fd 673 
+ Closing fd 671 
+ Closing fd 669 
+ Closing fd 667 
+ Closing fd 665 
+ Closing fd 663 
+ Closing fd 661 
+ Closing fd 659 
+ Closing fd 657 
+ Closing fd 655 
+ Closing fd 653 
+ Closing fd 651 
+ Closing fd 649 
+ Closing fd 647 
+ Closing fd 645 
+ Closing fd 643 
+ Closing fd 641 
+ Closing fd 639 
+ Closing fd 637 
+ Closing fd 635 
+ Closing fd 633 
+ Closing fd 631 
+ Closing fd 629 
+ Closing fd 627 
+ Closing fd 625 
+ Closing fd 623 
+ Closing fd 621 
+ Closing fd 619 
+ Closing fd 617 
+ Closing fd 615 
+ Closing fd 613 
+ Closing fd 611 
+ Closing fd 609 
+ Closing fd 607 
+ Closing fd 605 
+ Closing fd 603 
+ Closing fd 601 
+ Closing fd 599 
+ Closing fd 597 
+ Closing fd 595 
+ Closing fd 593 
+ Closing fd 591 
+ Closing fd 589 
+ Closing fd 587 
+ Closing fd 585 
+ Closing fd 583 
+ Closing fd 581 
+ Closing fd 579 
+ Closing fd 577 
+ Closing fd 575 
+ Closing fd 573 
+ Closing fd 571 
+ Closing fd 569 
+ Closing fd 567 
+ Closing fd 565 
+ Closing fd 563 
+ Closing fd 561 
+ Closing fd 559 
+ Closing fd 557 
+ Closing fd 555 
+ Closing fd 553 
+ Closing fd 551 
+ Closing fd 549 
+ Closing fd 547 
+ Closing fd 545 
+ Closing fd 543 
+ Closing fd 541 
+ Closing fd 539 
+ Closing fd 537 
+ Closing fd 535 
+ Closing fd 533 
+ Closing fd 531 
+ Closing fd 529 
+ Closing fd 527 
+ Closing fd 525 
+ Closing fd 523 
+ Closing fd 521 
+ Closing fd 519 
+ Closing fd 517 
+ Closing fd 515 
+ Closing fd 513 
+ Closing fd 511 
+ Closing fd 509 
+ Closing fd 507 
+ Closing fd 505 
+ Closing fd 503 
+ Closing fd 501 
+ Closing fd 499 
+ Closing fd 497 
+ Closing fd 495 
+ Closing fd 493 
+ Closing fd 491 
+ Closing fd 489 
+ Closing fd 487 
+ Closing fd 485 
+ Closing fd 483 
+ Closing fd 481 
+ Closing fd 479 
+ Closing fd 477 
+ Closing fd 475 
+ Closing fd 473 
+ Closing fd 471 
+ Closing fd 469 
+ Closing fd 467 
+ Closing fd 465 
+ Closing fd 463 
+ Closing fd 461 
+ Closing fd 459 
+ Closing fd 457 
+ Closing fd 455 
+ Closing fd 453 
+ Closing fd 451 
+ Closing fd 449 
+ Closing fd 447 
+ Closing fd 445 
+ Closing fd 443 
+ Closing fd 441 
+ Closing fd 439 
+ Closing fd 437 
+ Closing fd 435 
+ Closing fd 433 
+ Closing fd 431 
+ Closing fd 429 
+ Closing fd 427 
+ Closing fd 425 
+ Closing fd 423 
+ Closing fd 421 
+ Closing fd 419 
+ Closing fd 417 
+ Closing fd 415 
+ Closing fd 413 
+ Closing fd 411 
+ Closing fd 409 
+ Closing fd 407 
+ Closing fd 405 
+ Closing fd 403 
+ Closing fd 401 
+ Closing fd 399 
+ Closing fd 397 
+ Closing fd 395 
+ Closing fd 393 
+ Closing fd 391 
+ Closing fd 389 
+ Closing fd 387 
+ Closing fd 385 
+ Closing fd 383 
+ Closing fd 381 
+ Closing fd 379 
+ Closing fd 377 
+ Closing fd 375 
+ Closing fd 373 
+ Closing fd 371 
+ Closing fd 369 
+ Closing fd 367 
+ Closing fd 365 
+ Closing fd 363 
+ Closing fd 361 
+ Closing fd 359 
+ Closing fd 357 
+ Closing fd 355 
+ Closing fd 353 
+ Closing fd 351 
+ Closing fd 349 
+ Closing fd 347 
+ Closing fd 345 
+ Closing fd 343 
+ Closing fd 341 
+ Closing fd 339 
+ Closing fd 337 
+ Closing fd 335 
+ Closing fd 333 
+ Closing fd 331 
+ Closing fd 329 
+ Closing fd 327 
+ Closing fd 325 
+ Closing fd 323 
+ Closing fd 321 
+ Closing fd 319 
+ Closing fd 317 
+ Closing fd 315 
+ Closing fd 313 
+ Closing fd 311 
+ Closing fd 309 
+ Closing fd 307 
+ Closing fd 305 
+ Closing fd 303 
+ Closing fd 301 
+ Closing fd 299 
+ Closing fd 297 
+ Closing fd 295 
+ Closing fd 293 
+ Closing fd 291 
+ Closing fd 289 
+ Closing fd 287 
+ Closing fd 285 
+ Closing fd 283 
+ Closing fd 281 
+ Closing fd 279 
+ Closing fd 277 
+ Closing fd 275 
+ Closing fd 273 
+ Closing fd 271 
+ Closing fd 269 
+ Closing fd 267 
+ Closing fd 265 
+ Closing fd 263 
+ Closing fd 261 
+ Closing fd 259 
+ Closing fd 257 
+ Closing fd 255 
+ Closing fd 253 
+ Closing fd 251 
+ Closing fd 249 
+ Closing fd 247 
+ Closing fd 245 
+ Closing fd 243 
+ Closing fd 241 
+ Closing fd 239 
+ Closing fd 237 
+ Closing fd 235 
+ Closing fd 233 
+ Closing fd 231 
+ Closing fd 229 
+ Closing fd 227 
+ Closing fd 225 
+ Closing fd 223 
+ Closing fd 221 
+ Closing fd 219 
+ Closing fd 217 
+ Closing fd 215 
+ Closing fd 213 
+ Closing fd 211 
+ Closing fd 209 
+ Closing fd 207 
+ Closing fd 205 
+ Closing fd 203 
+ Closing fd 201 
+ Closing fd 199 
+ Closing fd 197 
+ Closing fd 195 
+ Closing fd 193 
+ Closing fd 191 
+ Closing fd 189 
+ Closing fd 187 
+ Closing fd 185 
+ Closing fd 183 
+ Closing fd 181 
+ Closing fd 179 
+ Closing fd 177 
+ Closing fd 175 
+ Closing fd 173 
+ Closing fd 171 
+ Closing fd 169 
+ Closing fd 167 
+ Closing fd 165 
+ Closing fd 163 
+ Closing fd 161 
+ Closing fd 159 
+ Closing fd 157 
+ Closing fd 155 
+ Closing fd 153 
+ Closing fd 151 
+ Closing fd 149 
+ Closing fd 147 
+ Closing fd 145 
+ Closing fd 143 
+ Closing fd 141 
+ Closing fd 139 
+ Closing fd 137 
+ Closing fd 135 
+ Closing fd 133 
+ Closing fd 131 
+ Closing fd 129 
+ Closing fd 127 
+ Closing fd 125 
+ Closing fd 123 
+ Closing fd 121 
+ Closing fd 119 
+ Closing fd 117 
+ Closing fd 115 
+ Closing fd 113 
+ Closing fd 111 
+ Closing fd 109 
+ Closing fd 107 
+ Closing fd 105 
+ Closing fd 103 
+ Closing fd 101 
+ Closing fd 99 
+ Closing fd 97 
+ Closing fd 95 
+ Closing fd 93 
+ Closing fd 91 
+ Closing fd 89 
+ Closing fd 87 
+ Closing fd 85 
+ Closing fd 83 
+ Closing fd 81 
+ Closing fd 79 
+ Closing fd 77 
+ Closing fd 75 
+ Closing fd 73 
+ Closing fd 71 
+ Closing fd 69 
+ Closing fd 67 
+ Closing fd 65 
+ Closing fd 63 
+ Closing fd 61 
+ Closing fd 59 
+ Closing fd 57 
+ Closing fd 55 
+ Closing fd 53 
+ Closing fd 51 
+ Closing fd 49 
+ Closing fd 47 
+ Closing fd 45 
+ Closing fd 43 
+ Closing fd 41 
+ Closing fd 39 
+ Closing fd 37 
+ Closing fd 35 
+ Closing fd 33 
+ Closing fd 31 
+ Closing fd 29 
+ Closing fd 27 
+ Closing fd 25 
+ Closing fd 23 
+ Closing fd 21 
+ Closing fd 19 
+ Closing fd 17 
+ Closing fd 15 
+ Closing fd 13 
+ Closing fd 11 
+ Closing fd 9 
+ Server15: end 
+ launch
+bind failed: errno 98
+ 
+ Client16: end 
+
+ Server16: end 
+
+ launch
+Server17: end 
+
+ Client17: end 
+
+ launch
+Server18: sendto -> 1024, errno: 0 
+ 
+ Server18: recvfrom -> 1024, errno: 2 FROM:  
+ 
+ Server18: end 
+
+ Client18: end 
+
+ launch
+sendmsg --> 1024, errno: 0 
+ 
+ recvmsg -> 1024, errno: 2 
+
+ Server19: end 
+
+ Client19: end 
+
+ launch
+sendmsg --> 1024, errno: 0 
+ 
+ recvmsg -> 512, errno: 2 
+
+ Server20: end 
+
+ Client20: end 
+
+ launch
+sendmsg --> 1024, errno: 0 
+ 
+ First recvmsg -> 1024, errno: 2 
+
+ Second recvmsg -> 1024, errno: 2 
+
+ Third recvmsg -> -1, errno: 11 
+
+ Server21: end 
+
+ Client21: end 
+
+ launch
+Client22: end 
+
+ First recvmsg -> -1, errno: 11 
+
+ Server22: end 
+
+ launch
+sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ sendmsg --> 1024, errno: 0 
+ 
+ recvmsg -> 1024, errno: 2 
+
+ sendmsg --> -1, errno: 11 
+ 
+ Client23: end 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> 1024, errno: 2 
+
+ recvmsg -> -1, errno: 11 
+
+ Server23: end 
+
+ launch
+C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> 1024, errno: 0 
+ 
+ C24: sendmsg --> -1, errno: 11 
+ 
+ Server24: end 
+
+ C24: LAST sendmsg --> -1, errno: 111 
+ 
+ Client24: end 
+
+ launch
+C25: sendmsg --> -1, errno: 111 
+ 
+ Client25: end 
+
+ Server25: end 
+
+ launch
+Server27: start 
+
+ Client27: start 
+
+ Client27: first connect -> 0 
+ Client27: out of do-while
+ Client27: end 
+
+ Server27: end 
+ launch
+server28: getpeername -> -1, errno 107    
+
+ server28: getsockname -> 0, errno 107  /tmp/socket  
+
+ server28: shutdown -> 0, errno 107
+
+ server28: shutdown -> 0, errno 107
+
+ client28: getpeername -> 0, errno 0  /tmp/socket  
+
+ client28: getsockname -> 0, errno 0    
+
+ client28: shutdown -> 0, errno 0
+
+ server28: shutdown -> 0, errno 107
+
+ client28: write -> -1, errno 32
+
+ client28: shutdown -> 0, errno 32
+
+ client28: shutdown -> 0, errno 32
+
+ client28: shutdown -> 0, errno 32
+
+ client28: shutdown -> -1, errno 9
+
+ Client28: end 
+
+ server28: shutdown -> -1, errno 9
+
+ server28: shutdown -> 0, errno 9
+
+ server28: shutdown -> 0, errno 9
+
+ Server28: end 
+
+ launch
+Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Server26: select -> 1 
+ Server26: selecting ... 
+ Client26: connect -> 0 
+ Client26: out of do-while
+ Client26: end 
+
+ Server26: select -> 1 
+ Server26: end 
+ launch
+server30: start
+client30: start
+sendmsg --> 1024, errno: 0 
+ 
+ Client30: end 
+
+ 

@@ -1,0 +1,17 @@
+Start Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> Starting: /home/lawrence/ns-3-dce/build/bin_dce/test-exec
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC: /home/lawrence/ns-3-dce/build/bin_dce/test-exec 2 
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC SUCCESS
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC: /home/lawrence/ns-3-dce/build/bin_dce/test-exec 3 
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC SUCCESS
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC: /home/lawrence/ns-3-dce/build/bin_dce/test-exec 4 
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC SUCCESS
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC: /home/lawrence/ns-3-dce/build/bin_dce/test-exec 5 
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC SUCCESS
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC: /home/lawrence/ns-3-dce/build/bin_dce/test-exec 6 
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC SUCCESS
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC: /home/lawrence/ns-3-dce/build/bin_dce/test-exec 7 
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC SUCCESS
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC: /home/lawrence/ns-3-dce/build/bin_dce/test-exec 8 
+      Time: NS3 Time:         10s (         +10000000000.0ns) , REAL Time: 1480078194 --> EXEC SUCCESS
+      Time: NS3 Time:         11s (         +11000000000.0ns) , REAL Time: 1480078194 --> Exit (0)

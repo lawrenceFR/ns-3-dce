@@ -1,0 +1,17 @@
+ProgName: test-exec test-exec test-exec 
+test-exec: argc=1
+ProgName: /home/lawrence/ns-3-dce/build/bin_dce/test-exec /home/lawrence/ns-3-dce/build/bin_dce/test-exec test-exec 
+/home/lawrence/ns-3-dce/build/bin_dce/test-exec: argc=2 2
+ProgName: /home/lawrence/ns-3-dce/build/bin_dce/test-exec /home/lawrence/ns-3-dce/build/bin_dce/test-exec test-exec 
+/home/lawrence/ns-3-dce/build/bin_dce/test-exec: argc=2 3
+ProgName: /home/lawrence/ns-3-dce/build/bin_dce/test-exec /home/lawrence/ns-3-dce/build/bin_dce/test-exec test-exec 
+/home/lawrence/ns-3-dce/build/bin_dce/test-exec: argc=2 4
+ProgName: /home/lawrence/ns-3-dce/build/bin_dce/test-exec /home/lawrence/ns-3-dce/build/bin_dce/test-exec test-exec 
+/home/lawrence/ns-3-dce/build/bin_dce/test-exec: argc=2 5
+ProgName: /home/lawrence/ns-3-dce/build/bin_dce/test-exec /home/lawrence/ns-3-dce/build/bin_dce/test-exec test-exec 
+/home/lawrence/ns-3-dce/build/bin_dce/test-exec: argc=2 6
+ProgName: /home/lawrence/ns-3-dce/build/bin_dce/test-exec /home/lawrence/ns-3-dce/build/bin_dce/test-exec test-exec 
+/home/lawrence/ns-3-dce/build/bin_dce/test-exec: argc=2 7
+ProgName: /home/lawrence/ns-3-dce/build/bin_dce/test-exec /home/lawrence/ns-3-dce/build/bin_dce/test-exec test-exec 
+/home/lawrence/ns-3-dce/build/bin_dce/test-exec: argc=2 8
+Last test.

@@ -1,0 +1,226 @@
+main argc=1
+main argv[0]=test-fork
+read -> -1
+Fork father
+Fork child
+sel: 0
+sel: 0
+Before Fork toto: 0x7ffff7fec018 tintin 
+houla 0x2a
+FATHER toto: 0x7ffff7fec018 tintin 
+houla 0x2a
+I am the father, my son pid is 48507
+CHILD toto: 0x7ffff7fec018 tintin 
+houla 0x2a
+I am the child ! 
+I am the father, my son pid is 48508
+I am the child ! 
+Thread about to wait 
+test wait fork thread: after wait >>> 48507,  status = 1 signal 0 
+child not yet ended.
+father wait fork thread: after wait >>> 48508, status = 2 signal 0 
+pid:48509 prof1
+pid:48510 prof2
+pid:48511 prof3
+pid:48512 prof4
+pid:48513 prof5
+pid:48514 prof6
+pid:48515 prof7
+pid:48516 prof8
+pid:48517 prof9
+pid:48518 prof10
+pid:48519 prof11
+pid:48520 prof12
+pid:48521 prof13
+pid:48522 prof14
+pid:48523 prof15
+pid:48524 prof16
+pid:48525 prof17
+pid:48526 prof18
+pid:48527 prof19
+pid:48528 prof20
+pid:48529 prof21
+pid:48530 prof22
+pid:48531 prof23
+pid:48532 prof24
+pid:48533 prof25
+pid:48534 prof26
+pid:48535 prof27
+pid:48536 prof28
+pid:48537 prof29
+pid:48538 prof30
+pid:48539 prof31
+pid:48540 prof32
+pid:48541 prof33
+pid:48542 prof34
+pid:48543 prof35
+pid:48544 prof36
+pid:48545 prof37
+pid:48546 prof38
+pid:48547 prof39
+pid:48548 prof40
+pid:48549 prof41
+pid:48550 prof42
+pid:48551 prof43
+pid:48552 prof44
+pid:48553 prof45
+pid:48554 prof46
+pid:48555 prof47
+pid:48556 prof48
+pid:48557 prof49
+pid:48558 prof50
+pid:48559 prof51
+pid:48560 prof52
+pid:48561 prof53
+pid:48562 prof54
+pid:48563 prof55
+pid:48564 prof56
+pid:48565 prof57
+pid:48566 prof58
+pid:48567 prof59
+pid:48568 prof60
+pid:48569 prof61
+pid:48570 prof62
+pid:48571 prof63
+pid:48572 prof64
+pid:48573 prof65
+pid:48574 prof66
+pid:48575 prof67
+pid:48576 prof68
+pid:48577 prof69
+pid:48578 prof70
+pid:48579 prof71
+pid:48580 prof72
+pid:48581 prof73
+pid:48582 prof74
+pid:48583 prof75
+pid:48584 prof76
+pid:48585 prof77
+pid:48586 prof78
+pid:48587 prof79
+pid:48588 prof80
+pid:48589 prof81
+pid:48590 prof82
+pid:48591 prof83
+pid:48592 prof84
+pid:48593 prof85
+pid:48594 prof86
+pid:48595 prof87
+pid:48596 prof88
+pid:48597 prof89
+pid:48598 prof90
+pid:48599 prof91
+pid:48600 prof92
+pid:48601 prof93
+pid:48602 prof94
+pid:48603 prof95
+pid:48604 prof96
+pid:48605 prof97
+pid:48606 prof98
+pid:48607 prof99
+pid:48608 prof100
+Child pid:48609 48609
+Child pid:48608 48608
+Child pid:48607 48607
+Child pid:48606 48606
+Child pid:48605 48605
+Child pid:48604 48604
+Child pid:48603 48603
+Child pid:48602 48602
+Child pid:48601 48601
+Child pid:48600 48600
+Child pid:48599 48599
+Child pid:48598 48598
+Child pid:48597 48597
+Child pid:48596 48596
+Child pid:48595 48595
+Child pid:48594 48594
+Child pid:48593 48593
+Child pid:48592 48592
+Child pid:48591 48591
+Child pid:48590 48590
+Child pid:48589 48589
+Child pid:48588 48588
+Child pid:48587 48587
+Child pid:48586 48586
+Child pid:48585 48585
+Child pid:48584 48584
+Child pid:48583 48583
+Child pid:48582 48582
+Child pid:48581 48581
+Child pid:48580 48580
+Child pid:48579 48579
+Child pid:48578 48578
+Child pid:48577 48577
+Child pid:48576 48576
+Child pid:48575 48575
+Child pid:48574 48574
+Child pid:48573 48573
+Child pid:48572 48572
+Child pid:48571 48571
+Child pid:48570 48570
+Child pid:48569 48569
+Child pid:48568 48568
+Child pid:48567 48567
+Child pid:48566 48566
+Child pid:48565 48565
+Child pid:48564 48564
+Child pid:48563 48563
+Child pid:48562 48562
+Child pid:48561 48561
+Child pid:48560 48560
+Child pid:48559 48559
+Child pid:48558 48558
+Child pid:48557 48557
+Child pid:48556 48556
+Child pid:48555 48555
+Child pid:48554 48554
+Child pid:48553 48553
+Child pid:48552 48552
+Child pid:48551 48551
+Child pid:48550 48550
+Child pid:48549 48549
+Child pid:48548 48548
+Child pid:48547 48547
+Child pid:48546 48546
+Child pid:48545 48545
+Child pid:48544 48544
+Child pid:48543 48543
+Child pid:48542 48542
+Child pid:48541 48541
+Child pid:48540 48540
+Child pid:48539 48539
+Child pid:48538 48538
+Child pid:48537 48537
+Child pid:48536 48536
+Child pid:48535 48535
+Child pid:48534 48534
+Child pid:48533 48533
+Child pid:48532 48532
+Child pid:48531 48531
+Child pid:48530 48530
+Child pid:48529 48529
+Child pid:48528 48528
+Child pid:48527 48527
+Child pid:48526 48526
+Child pid:48525 48525
+Child pid:48524 48524
+Child pid:48523 48523
+Child pid:48522 48522
+Child pid:48521 48521
+Child pid:48520 48520
+Child pid:48519 48519
+Child pid:48518 48518
+Child pid:48517 48517
+Child pid:48516 48516
+Child pid:48515 48515
+Child pid:48514 48514
+Child pid:48513 48513
+Child pid:48512 48512
+Child pid:48511 48511
+Child pid:48510 48510
+Child pid:48509 48509
+pid: 48504 after 
+Father 0x7ffff7fec028 The Father have a prof of:0 !
+Before exec ! The Father have a prof of:0 ! 0x7ffff7fec028 
+Child pid:48610 48610

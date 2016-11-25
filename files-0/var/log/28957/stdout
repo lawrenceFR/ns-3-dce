@@ -1,0 +1,173 @@
+write ret -1, pipe capacity = 65536
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 write:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 read:4096
+test2 child end 81920.
+test2 father end 81920.
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 write 4096
+test3 end write:81920.
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 read 4096
+test3 thread end read:81920.
+get signal 13
+test4 end.
+
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 write 4096
+test5 end write:81920.
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 read 4096
+test5 thread end read:81920.
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 write:4096
+test6 read:4096
+test6 father end 81920.
+test6 child end 81920.
+Hello

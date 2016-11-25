@@ -107,6 +107,10 @@ int main (int argc, char *argv[])
 
   // debug
   stack.SysctlSet (nodes, ".net.mptcp.mptcp_debug", "1");
+  // mptcp full-mesh path-manager
+  stack.SysctlSet (nodes, ".net.mptcp.mptcp_path_manager", "fullmesh");
+  // mptcp default scheduler
+  stack.SysctlSet (nodes, ".net.mptcp.mptcp_scheduler", "default");
 
   DceApplicationHelper dce;
   ApplicationContainer apps;

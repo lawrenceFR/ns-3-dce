@@ -1,0 +1,63 @@
+read select -> 0, errno:29
+
+ After select -> 1 before time 1262304011 after time 1262304011 errno:29, 
+ launch
+ Server1: bind -> 0, errno:0
+ read select -> 0, errno:0
+
+ read select -> 1, errno:0
+
+ Server1: write->1024000
+ Server1: write->1012320
+ Server1: write->762916
+ Client1: read -> 0 
+ Client1: end
+ Server1: end
+ launch
+ Client2: end
+ read select -> 1, errno:0
+
+ Server2: recvfrom -> 1024
+ Server2: end
+ launch
+ Server3: bind -> 0, errno:0
+ read select -> 1, errno:0
+
+ Server3: end
+ client3: read -> 0 
+ Client3: end
+ launch
+ read select -> 1, errno:0
+
+ Server4: bind -> 0, errno:0
+ read select -> 1, errno:0
+
+ Server4: end
+ read select -> 1, errno:0
+
+ read select -> -1, errno:9
+
+ Client4: end
+ launch
+ Server5: bind -> 0, errno:2
+ read select -> 0, errno:0
+
+ Server5: end
+ read select -> 1, errno:0
+
+ read select -> -1, errno:9
+
+ Client5: end
+ launch
+ read select -> 0, errno:2
+
+ read select -> 1, errno:2
+
+ read select -> 1, errno:2
+
+ Client6: end
+ read select -> 1, errno:2
+
+ Server6: end
+ test-select end.
+ 

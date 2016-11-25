@@ -1,0 +1,18 @@
+recvfrom -> 1024
+rawFd 5, errno 29
+test1_reader: waiting 4 raw Data ....
+recvfrom -> 70 , Familly, proto 17, 0x800, Interface Number 1, Packet Type 0, Header type 512 0x200 
+test1_reader: waiting 4 raw Data ....
+recvfrom -> 70 , Familly, proto 17, 0x800, Interface Number 1, Packet Type 0, Header type 512 0x200 
+test1_reader: waiting 4 raw Data ....
+recvfrom -> 66 , Familly, proto 17, 0x800, Interface Number 1, Packet Type 0, Header type 512 0x200 
+test1_reader: waiting 4 raw Data ....
+test1_client: connect --> 0 errno: 0
+test1_server: received 16 / 1024
+test1_server: received 0 / 1008
+test1_server: close -> 0 
+ recvfrom -> 82 , Familly, proto 17, 0x800, Interface Number 1, Packet Type 0, Header type 512 0x200 
+we win !
+test1 server joined.
+test1 client joined.
+test1 reader joined.

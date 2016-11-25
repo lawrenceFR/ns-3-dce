@@ -1,0 +1,45 @@
+After poll -> 1 before time 1262304011 after time 1262304011 errno:29 
+ launch
+ Server1: bind -> 0, errno:0
+ Server1: write->1024000
+ Server1: write->1012320
+ Server1: write->762916
+ Client1: read -> 1024 
+ Client1: end
+ Server1: end
+ launch
+ Client2: end
+ Server2: recvfrom -> 1024
+ Server2: end
+ launch
+ Server3: bind -> 0, errno:0
+ Client3: end
+ Server3: end
+ launch
+ Server5: BUF_LEN:1024
+Server5: fd: 5
+Server5: end 
+Client5: fd: 4
+Client5: poll -> 1, revents : 21, errno 0 
+ Client5: end 
+
+launch
+ Client4: polling
+res 1, revents : 4 
+ Server4: end
+ Client4: polling
+res 1, revents : 5 
+ Client4: end
+ launch
+ Server6: poll -> 0, revents : 0, errno 2 
+ Client6: poll -> 1, revents : 4, errno 0 
+ Server6: poll -> 1, revents : 1, errno 2 
+ Client6: poll -> 1, revents : 4, errno 0 
+ Server6: poll -> 1, revents : 1, errno 2 
+ Client6: poll -> 1, revents : 20, errno 0 
+ Client6: poll -> 1, revents : 4, errno 111 
+ Client6: end
+ Server6: poll -> 1, revents : 1, errno 2 
+ Server6: end
+ launch
+ 

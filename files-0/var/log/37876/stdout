@@ -1,0 +1,308 @@
+launch
+
+ Client1: connect --> 0 errno: 0
+Client1: send 33792 / 33792
+Server1: received 33792 / 33792
+Server1: send 33792 / 33792
+Server1: close -> 0 
+ Client1: received 33792 / 33792  errno:0
+launch ended
+
+ launch
+
+ recv->-1, errno:11
+Server2: end 
+ 
+ Client2: end 
+ 
+ launch ended
+
+ launch
+
+ Client4: recv status -1 and errno 107
+Client4: send status -1 and errno 32
+launch ended
+
+ launch
+
+ Server5: bind ok , sleeping 10s 
+Server5: accepting...
+Client5: second connection attempt.
+Client5: second connect result : 0, errno:111 
+ 
+ Server5: after accept ! 
+ Client5: end 
+
+Server5: end 
+launch ended
+
+ launch
+
+ Client6: end 
+
+launch ended
+
+ launch
+
+ Server8: binded socket fd:3
+Server8: getsockname -> 0
+
+ Server8: local port 1239 
+ 
+ enter client8
+Client8: peer port 1239 
+ 
+ Client8: local port 47129 
+ 
+ Server8: getpeername -> 0
+
+ Server8: peer port 47129 
+ 
+ client8: 2 reads
+Client8: After connect sock fd : 4
+Server8: About to accept !
+Server8: After accept sock fd : 5
+Client8: write -> 4
+Client8: close -> 0
+server8: read 4 errno 0 
+ 
+ server8: read 0 errno 0 
+ 
+ Client8: end 
+
+server8: end
+ 
+ launch ended
+
+ launch
+
+ Server9: end
+
+ launch ended
+
+ launch
+
+ Client10: 1st connect -> 0 errno:0
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 33792 / 33792
+Client10: send 16012 / 33792
+Client10: send -1 / 17780
+Client10: end 
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 33792 errno:0
+
+Server10: recv -> 16012 errno:0
+
+Server10: recv -> 0 errno:0
+
+Server10: end
+ 
+ launch ended
+
+ launch
+
+ Server11: send -> 33792 / 33792 
+ 
+ Server11: end 
+Client11: end 
+
+launch ended
+
+ launch
+
+ launch ended
+
+ launch
+
+ Server13: end 
+Client13: end 
+
+launch ended
+
+ launch
+
+ Client14: select -> 0, errno: 0 
+Server14: end 
+Client14: end 
+
+launch ended
+
+ That's All Folks ....
+ 
+ 
